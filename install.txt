@@ -1,0 +1,6 @@
+Required:
+- nodejs
+- npm
+
+To install:
+npm i --save colors node-fetch readline fs cheerio axios discord-webhook-node log-prefix
